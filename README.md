@@ -22,9 +22,7 @@ Feito com **HTML**, **CSS** e **JavaScript**, ideal para criar páginas interati
 
 ## 🖼 Demonstração
 
-![Demonstração do projeto](<img width="678" height="393" alt="image" src="https://github.com/user-attachments/assets/2d70614c-03bc-466c-a942-c949189cf284" />
-)
-
+![Demonstração do projeto](Captura de tela 2025-08-15 175703.png)
 
 
 

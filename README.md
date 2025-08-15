@@ -22,7 +22,7 @@ Feito com **HTML**, **CSS** e **JavaScript**, ideal para criar páginas interati
 
 ## 🖼 Demonstração
 
-![Demonstração do projeto](Captura de tela 2025-08-15 175703.png)
+![Demonstração do projeto]
 
 
 

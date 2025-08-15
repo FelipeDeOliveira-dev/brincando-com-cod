@@ -1,4 +1,4 @@
-# ❤️ Projeto AmorMeu
+# ❤️ Projeto Do Amor
 
 Um projeto divertido e romântico que exibe uma animação de corações flutuando pela tela ao clicar em um botão.  
 Feito com **HTML**, **CSS** e **JavaScript**, ideal para criar páginas interativas com um toque especial.
